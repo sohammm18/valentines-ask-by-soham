@@ -146,7 +146,7 @@ setupFloatingText("floating-text2", 1);
 
 
 
-const videos = ["gateway.mp4", "rickshaw.mp4"];
+const videos = ["gateway.mp4", "rickshaw.mp4" , "bkc.mp4"];
 let index = 0;
 
 const video = document.getElementById("surpriseVideo");
